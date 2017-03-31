@@ -10,7 +10,6 @@ Welcome to my game Sanic! This game is a sidescroller game. It is played with on
 
 <a href="https://www.w3schools.com/html/" target="_blank">Visit our HTML tutorial!</a> 
 
-<p>If you set the target attribute to "_blank", the link will open in a new browser window or tab.</p>
 
 </body>
 </html>
