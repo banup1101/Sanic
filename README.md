@@ -4,4 +4,13 @@
 <img src= "https://github.com/banup1101/Sanic/blob/master/Brandon%20A/sanicimages/slidenew.PNG">
 <p>
 Welcome to my game Sanic! This game is a sidescroller game. It is played with only spacebar. The way to win the game is reach a score of 1000 without getting hurt by the spikes or fire or your health will decrease and you will die.
-<a href="http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame">Pygame Wheel File </a>
+<!DOCTYPE html>
+<html>
+<body>
+
+<a href="https://www.w3schools.com/html/" target="_blank">Visit our HTML tutorial!</a> 
+
+<p>If you set the target attribute to "_blank", the link will open in a new browser window or tab.</p>
+
+</body>
+</html>
