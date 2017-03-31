@@ -9,7 +9,8 @@ Welcome to my game Sanic! This game is a sidescroller game. It is played with on
 <body>
 
 <a href="http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame" target="_blank">Pygame Wheel File</a> 
-
-
+</body>
+</html>
+<a href="https://youtu.be/_GikMdhAhv0" target="_blank">Pygame Video</a> 
 </body>
 </html>
