@@ -1,5 +1,4 @@
-#Group:Monsters Co
-#Members:Brandon A, Brandon F, Shameel J Pd 7
+#Brandon Anup
 #Game:Sanic
 from gamelib import*
 
